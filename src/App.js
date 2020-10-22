@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I don't care what you do
+          Reactionary Learning
         </p>
         <a
           className="App-link"
